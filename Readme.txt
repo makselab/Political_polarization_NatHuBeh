@@ -1,11 +1,10 @@
 Here you can find the Data and codes needed to reproduce the results from: "Political polarization of news media and influencers on Twitter in the 2016 and 2020 US presidential elections"
 
 Refer to the following link for the data:
-
-https://osf.io/e395q
+(https://osf.io/e395q)
 
 Refer to the following link for the codes: 
-https://osf.io/dbzm2/
+(https://osf.io/dbzm2/)
 
 ################
 ABOUT THE DATA
